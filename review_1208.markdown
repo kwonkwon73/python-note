@@ -31,3 +31,5 @@ I learned how to read some math characters in English.
 I can use Variables with `float()`, `int()` for setting values.
 and I can explain the meaning of `=`(operator) character.
 It is not same as math, rather than It means assigning a value to a variable.
+
+//test
