@@ -18,8 +18,8 @@ If I want to use a `"`(double-quote) character in a sentence wrapped same charac
 `print("She said, \"Hello, World!\"")`
 
 3. ex02 - Comments and Pound Characters
-I can write comments by putting the ```#``` character in Python Code.
-*```#This sentence will not be printed.```* A ```#``` character is called a "pound", "hash", "octothorpe", or any number of names.
+I can write comments by putting the `#` character in Python Code.
+*`#This sentence will not be printed.`* A `#` character is called a "pound", "hash", "octothorpe", or any number of names.
 
 4. ex03 - Numbers and Math
 I learned how to read some math characters in English.
